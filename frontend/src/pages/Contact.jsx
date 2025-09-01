@@ -7,7 +7,7 @@ import { useNavigate } from "react-router-dom";
 import axios from "axios";
 import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import { authDataContext } from '../context/authContext';
+import { authDataContext } from '../context/AuthContext';
 
 function Contact() {
   const [form, setForm] = useState({
