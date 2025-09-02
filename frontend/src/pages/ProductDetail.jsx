@@ -185,20 +185,7 @@ function ProductDetail() {
             </button>
           </div>
           <div className="w-[90%] h-[1px] bg-purple-700 my-4"></div>
-          <div className="w-[80%] text-[16px] text-[#242323]">
-            <p className="flex items-center mb-2">
-              <span className="w-2 h-2 bg-[#8B5CF6] rounded-full mr-2"></span>
-              100% Original Product.
-            </p>
-            <p className="flex items-center mb-2">
-              <span className="w-2 h-2 bg-[#8B5CF6] rounded-full mr-2"></span>
-              Cash on delivery is available on this product
-            </p>
-            <p className="flex items-center">
-              <span className="w-2 h-2 bg-[#8B5CF6] rounded-full mr-2"></span>
-              Easy return and exchange policy Within 7 days
-            </p>
-          </div>
+         
         </div>
       </div>
 
